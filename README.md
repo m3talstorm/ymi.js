@@ -52,5 +52,7 @@ client.on('refresh_token', (refresh_token) => {
     // TODO: Persist to disk
 })
 
+client.connect()
+
 
 ~~~
