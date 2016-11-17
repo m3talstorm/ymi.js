@@ -12,7 +12,7 @@
   },
   "dependencies": {
       "googleapis": "^14.0.0",
-      "lodash": "^4.16.6",
+      "lodash": "^4.16.6"
   },
   "engines": {
     "node": ">=4.4.0"
@@ -26,6 +26,7 @@
   },
   "keywords": [
     "ymi",
+    "node",
     "youtube",
     "youtube.com",
     "live",
@@ -37,8 +38,7 @@
     "interface",
     "subscriber",
     "bot",
-    "robot",
-    "node",
+    "robot"
   ],
   "author": "Stuart Bannerman",
   "contributors": [
