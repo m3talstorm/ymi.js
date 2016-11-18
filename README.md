@@ -53,6 +53,8 @@ client.on('refresh_token', (refresh_token) => {
 })
 
 client.connect()
+// Send a message to the stream's chat
+client.say("Test message")
 
 
 ~~~
