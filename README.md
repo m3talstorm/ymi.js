@@ -1,5 +1,7 @@
 # ymi.js
 
+[![Build Status](https://travis-ci.org/m3talstorm/ymi.js.svg?branch=master)](https://travis-ci.org/m3talstorm/ymi.js) [![Downloads](https://img.shields.io/npm/dm/ymi.js.svg?style=flat)](https://www.npmjs.org/package/ymi.js) [![Npm Version](https://img.shields.io/npm/v/ymi.js.svg?style=flat)](https://www.npmjs.org/package/ymi.js) [![Node Version](https://img.shields.io/node/v/ymi.js.svg?style=flat)](https://www.npmjs.org/package/ymi.js) [![Issues](https://img.shields.io/github/issues/m3talstorm/ymi.js.svg?style=flat)](https://github.com/m3talstorm/ymi.js/issues)
+
 ymi.js is heavy influenced by the awesome [tmi.js](https://tmijs.org/) providing basic functionality to get a Youtube stream's chat messages from the Youtube API
 
 
