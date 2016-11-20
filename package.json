@@ -1,7 +1,7 @@
 {
   "name": "ymi.js",
-  "version": "0.0.1",
-  "description": "Javascript library for the Youtube Messaging Interface",
+  "version": "0.1.2",
+  "description": "A Nodejs library for interacting with a Youtube live stream",
   "main": "index.js",
   "files": [
     "lib",
